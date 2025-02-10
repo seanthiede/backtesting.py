@@ -1,0 +1,4 @@
+venv/
+venv_backtesting_311/
+*.csv
+
